@@ -1,1 +1,1 @@
-from dev_aberto import hello
+from .dev_aberto import hello
